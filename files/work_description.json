@@ -1,0 +1,31 @@
+{
+	"conversocial": [
+		"Prototyped, built and maintained an autocomplete suggestion feature using React, Redux and Draft.js; Wrote unit tests with each code commit to validate functionality using Jest and Enzyme; Received positive reviews from end users.",
+		"Implemented an emoji picker in product reply box using emoji-mart library.",
+		"Collaborated with team on revamping side panel app; integrated a drag and drop between tabs feature for CSM apps using react-beautiful-dnd and CSS styling.",
+		"Provided fixes on customer support tickets by investigating and resolving bugs; Contacted third-party extension providers to troubleshoot compatibility issues.",
+		"Removed obsolete and refactored spaghetti code in core front-end functionalities.",
+		"Assisted with writing user acceptance tests using Python and Selenium."
+	],
+	"verv": [
+		"Provided technical support assistance for trial clients and product end-users via Zendesk support and Intercom chat.",
+		"Created an online knowledge guide and documented common troubleshooting issues to enable product users to gain self-help ability.",
+		"Collaborated with internal Platform and Front-end teams to report customer feedback and bugs via verbal and written communication, JIRA/Atlassian integration tools.",
+		"Assisted in the preparation and testing of products for upcoming and in-progress trials.",
+		"Identified and resolved hidden problems with the ATE system used to perform product tests by mobilising and coordinating with relevant teams to devise solutions.",
+		"Took ownership of inventory management of existing product stocks and parts.",
+		"Completed fulfilment by dispatching customer orders and replacements."
+	],
+	"ibm": [
+		"Provided technical support assistance for IBM WebSphere Commerce/Commerce on Cloud clients using problem determination and source identification skills.",
+		"Resolved 35 percent of tickets compared with a team average of 17 percent; North American team receives 53% of worldwide tickets.",
+		"Received 6 out of 9 promoter surveys in 2017; 4 of which received perfect scores.",
+		"Communicated action plans to clients or IBM representatives through consistent email and phone calls; Collaborated with other support teams to prioritise and diagnose problems to resolution; Completed weekend on-call shifts on a rotational basis.",
+		"Assisted in new hire training; tasks include ticket handling instructions and mentoring."
+	],
+	"queensu": [
+		"Led one-to-one tutoring appointments and aided course instructors with proctoring and marking exam papers.",
+		"2017 Fall: CISC 121 - Introduction to Computing Science (Python).",
+		"2018 Winter: CISC 332 - Database Management Systems (MySQL, PHP)."
+	]
+}
