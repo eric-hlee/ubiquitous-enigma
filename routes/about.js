@@ -17,10 +17,10 @@ router.get("/", (req, res, next) => {
 
 		collection.find().toArray((err, result) => {
 			if (err) throw err;
-			res.header("Access-Control-Allow-Origin", "*");
 			res.send(result);
 		});
-		client.close();
+
+		// client.close();
 	});
 });
 
