@@ -4,7 +4,10 @@ var MongoClient = require("mongodb").MongoClient;
 
 const uri =
 	"mongodb+srv://ericlee:lcPBtSuBrg4k3M5b@cluster0-xandl.gcp.mongodb.net/test?retryWrites=true&w=majority";
-const client = new MongoClient(uri, { useNewUrlParser: true });
+const client = new MongoClient(uri, {
+	useNewUrlParser: true,
+	useUnifiedTopology: true,
+});
 
 router.get("/", (req, res, next) => {
 	client.connect((err) => {
